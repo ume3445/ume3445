@@ -1,16 +1,14 @@
-## Hi there 👋
+#👋 Heya! Thank You For Viewing My GitHub Profile And Projects!
 
-<!--
-**ume3445/ume3445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**If You Would Like To Know More About Me *(Projects, Skills, Experience, 
+Startups, Story)*, Please Visit:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 My Portfolio Website: [View Umer's Portfolio Website](https://umerhammad.com)
+- 💼 My LinkedIn Profile: [View Umer's LinkedIn Profile](https://www.linkedin.com/in/umerhammad010/)
+
+---
+
+*I would highly appreciate any sort of feedback/critique on my GitHub 
+Projects/Profile, LinkedIn or Website!*
