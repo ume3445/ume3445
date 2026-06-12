@@ -1,4 +1,4 @@
-#👋 Heya! Thank You For Viewing My GitHub Profile And Projects!
+👋 Heya! Thank You For Viewing My GitHub Profile And Projects!
 
 ---
 
