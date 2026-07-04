@@ -1,14 +1,5 @@
-👋 Heya! Thank You For Viewing My GitHub Profile And Projects!
+Hi, I'm Umer. I'm a computer science and math student at DePauw University who builds real projects.
 
----
+You can find more about my projects, skills, and experience on my portfolio at [umerhammad.com](https://umerhammad.com) or on my [LinkedIn](https://www.linkedin.com/in/umerhammad010/).
 
-**If You Would Like To Know More About Me *(Projects, Skills, Experience, 
-Startups, Story)*, Please Visit:**
-
-- 🌐 My Portfolio Website: [View Umer's Portfolio Website](https://umerhammad.com)
-- 💼 My LinkedIn Profile: [View Umer's LinkedIn Profile](https://www.linkedin.com/in/umerhammad010/)
-
----
-
-*I would highly appreciate any sort of feedback/critique on my GitHub 
-Projects/Profile, LinkedIn or Website!*
+I welcome any feedback or critique on my projects, profile, or website.
